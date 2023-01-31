@@ -5,7 +5,11 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+', '[', ']']
 
-print("Welcome to the PyPassword Generator!")
+#print("Welcome to the PyPassword Generator!")
+
+
+#Przywitanie zmienione przez programOften348
+print("Witam Ciebie w PyPassword Generator!")
 
 #wybierz ilość poszczególnych liter, symboli oraz cyfr dla swojego hasła
 nr_letters= int(input("How many letters would you like in your password?\n")) 
